@@ -1,0 +1,20 @@
+int INDICE = 12
+soma = 0
+k = 1
+while k menor indice(12)
+    k = k+1 e soma +=k
+
+  inicio do laço - k=2 soma =2
+
+  k =3 , soma = 5
+  k=4, soma = 9
+  k=5, soma 14
+  k=6, soma= 20
+  l=7, soma = 27
+  k=8, soma=35
+  k = 9, soma = 44
+  k=10, soma =54
+  k=11, aoma =  65
+  k = 12, fim do laço
+
+  SOMA = 65

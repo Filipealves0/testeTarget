@@ -1,0 +1,27 @@
+
+4) Descubra a lógica e complete o próximo elemento:
+a) 1, 3, 5, 7, ___
+b) 2, 4, 8, 16, 32, 64, ____
+c) 0, 1, 4, 9, 16, 25, 36, ____
+d) 4, 16, 36, 64, ____
+e) 1, 1, 2, 3, 5, 8, ____
+f) 2,10, 12, 16, 17, 18, 19, ____
+
+RESPOSTA =
+
+a = 9  alterna de 2 em 2
+b = 128 , multiplicado por 2
+c = 49, segue a sequencia do número elevado ao cubo ( 1, 2, 3, 4... 7)
+d =100, segue a sequencia do número elevado ao cubo, apenas com números pares ( 2,4,6...10)
+e =13, cada número é a soma dos anteriores ( 1 +1= 2, 2 +1 =3...5 + 8 =13)
+f =20 , segue a sequencia com a diferença entre os dois numeros anteriores e adiciona a diferença no próximo
+
+
+5) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes.
+Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser.
+ Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando
+ apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
+
+ R =   Com apenas duas idas posso ligar o primeiro interruptor e ver qual lampada está acesa, descobrindo o
+ primeiro interruptor. Desligo o primeiro interruptor e ligo o segundo, vendo qual sala acende, constatando assim a sala
+ do segundo interruptor, e por eliminação, perceber qual o terceiro interruptor.
